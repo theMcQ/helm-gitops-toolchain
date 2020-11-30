@@ -5,8 +5,8 @@
 
 ### Develop a Kubernetes application with Helm, Tekton and GitOps practices
 This Hello World application uses Docker, Kubernetes and Helm in a DevOps toolchain preconfigured for 
-continuous delivery to the IBM Kubernetes Service. It automates numerous tasks such as automatic triggering from Git
-commits, issue tracking, online editing, automatic linting of files, configuration of target cluster permissions to private image registry, etc... through a preconfigured Delivery Pipeline.
+continuous delivery to the IBM Kubernetes Service. The toolchain automates numerous tasks such as automatic triggering from Git
+commits, issue tracking, online editing, automatic linting of files, configuration of target cluster permissions to private image registry, etc... using a preconfigured Delivery Pipeline.
 
 ![Icon](./toolchain-flow.png)
 
